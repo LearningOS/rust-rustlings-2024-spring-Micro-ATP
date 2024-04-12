@@ -10,7 +10,7 @@
 | move_semantics         | §4.1-2              |
 | structs                | §5.1, §5.3          |
 | enums                  | §6, §18.3           |
-| strings                | §8.2                |
+| strings                | §8.2                |rustlings lsp
 | modules                | §7                  |
 | hashmaps               | §8.3                |
 | options                | §10.1               |
